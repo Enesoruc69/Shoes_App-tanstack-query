@@ -19,3 +19,4 @@
 - **React Toastify**: Displays toast notifications for user interactions like adding items to the cart.
 
 ![GIF](shoes.gif)# Shoes_app-reactquery
+# Shoes_app-reactquery
