@@ -1,3 +1,4 @@
+# Shoes App
 
 **Shoes App** is an interactive e-commerce application where users can browse, filter, and purchase shoes. The app features filtering options for size, color, and price range, and users can view detailed information about individual shoes and add their selected items to the cart.
 
@@ -18,8 +19,4 @@
 - **@tanstack/react-query**: Manages server state efficiently and caches API requests.
 - **React Toastify**: Displays toast notifications for user interactions like adding items to the cart.
 
-![GIF](shoes.gif)# Shoes_app-reactquery
-# Shoes_app-reactquery
-# Shoes_app-reactquery
-# Shoes_App-tanstack-query
-# Shoes_App-tanstack-query
+![GIF](shoes.gif)
